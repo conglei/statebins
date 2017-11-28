@@ -15,7 +15,7 @@ The following functions are implemented:
 ## Installation
 
 ``` r
-devtools::install_github("hrbrmstr/statebins")
+devtools::install_github("conglei/statebins")
 ```
 
 ## NOTE
