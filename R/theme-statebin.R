@@ -16,7 +16,7 @@ theme_statebins <- function(legend_position="bottom",
                  base_line_size = base_line_size, base_rect_size = base_rect_size)
   } else {
     gg <- theme_bw(base_family = base_family, base_size = base_size)
-    gg <- gg + theme(size = base_line_size)
+#    gg <- gg + theme(size = base_line_size)
     gg <- gg + theme(rect = element_rect(fill = "white", colour = "black",
                                          size = base_rect_size, linetype = 1))
   }
