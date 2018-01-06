@@ -11,7 +11,7 @@ state_coords <- structure(list(abbrev = c("DZA", "AGO", "BEN", "BWA", "BFA", "BD
                                col = c(6L, 7L, 7L, 8L, 8L, 8L, 7L, 1L, 8L, 8L, 12L, 6L, 7L, 10L, 9L, 6L, 9L, 
                                10L, 7L, 3L, 5L, 5L, 4L, 3L, 10L, 7L, 4L, 8L, 12L, 9L, 6L, 5L, 14L, 5L, 10L, 
                                7L, 7L, 7L, 8L, 4L, 4L, 14L, 6L, 11L, 7L, 9L, 9L, 8L, 9L, 6L, 7L, 9L, 8L, 9),
-                               row = c(1L, 9L, 4L, 10L, 4L, 7L, 6L, 4L, 6L, 5L, 8L, 7L, 7L, 6L, 3L, 6L, 
+                               row = c(2L, 9L, 4L, 10L, 4L, 7L, 6L, 4L, 6L, 5L, 8L, 7L, 7L, 6L, 3L, 6L, 
                                6L, 7L, 8L, 4L, 5L, 4L, 4L, 5L, 8L, 11L, 5L, 3L, 10L, 9L, 3L, 3L, 10L, 
                                2L, 9L, 10L, 3L, 5L, 8L, 7L, 3L, 7L, 4L, 6L, 12L, 5L, 4L, 11L, 8L, 5L, 
                                2L, 7L, 9L, 10)),
